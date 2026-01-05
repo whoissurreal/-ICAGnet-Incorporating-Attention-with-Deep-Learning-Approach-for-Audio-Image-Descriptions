@@ -1,2 +1,2 @@
-# -ICAGnet-Incorporating-Attention-with-Deep-Learning-Approach-for-Audio-Image-Descriptions
+# ICAGnet-Incorporating-Attention-with-Deep-Learning-Approach-for-Audio-Image-Descriptions
 ICAGnet is an image captioning model that combines a CNN encoder (InceptionV3 in the reference implementation) with an attention-guided GRU decoder to generate descriptive captions. Trained on Flickr8K and paired with an integrated text-to-speech module, the system outputs both textual and audio descriptions. Complete training and inference code is included.
